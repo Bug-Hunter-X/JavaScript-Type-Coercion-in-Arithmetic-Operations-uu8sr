@@ -1,0 +1,3 @@
+# JavaScript Type Coercion Pitfalls
+This repository demonstrates a common JavaScript bug related to type coercion in arithmetic operations.  JavaScript's dynamic typing can lead to unexpected results when combining numbers and strings without explicit type checking.
+The `bug.js` file showcases the issue with examples of addition, subtraction, multiplication, and division. The `bugSolution.js` file shows how to mitigate the issue by using type checking or converting the string to number before operation.
